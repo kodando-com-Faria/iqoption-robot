@@ -16,5 +16,10 @@ check, reason = Iq.connect()
 MODE = "PRACTICE"  # /"REAL"
 Iq.change_balance(MODE)
 
-duration = 1
-Iq.buy(1, asset, "put", duration)
+# compra simples no binario
+# duration = 1
+# Iq.buy(1, asset, "put", duration)
+
+# pegar dados do perfil
+profile = Iq.get_profile_ansyc()
+print(profile)
