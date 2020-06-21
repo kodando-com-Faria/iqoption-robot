@@ -4,6 +4,10 @@ Como criar seu proprio Robot
 
 https://www.youtube.com/watch?v=i68lXl9wLJ4&list=PLZqG1-AIqXa964x7jjZnmRZaW29np21oq
 
+## LICENÇA
+
+Você não pode vender ou alterar esse bot para fins comerciais sem deixar o codigo fonte livre LICENÇA GPLv2
+
 ## IMPORTANTE
 
 Como contribuir:
